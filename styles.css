@@ -1,0 +1,26 @@
+body {
+  background-color: cadetblue;
+  margin: 0;
+}
+
+.main-container {
+  border: 1px solid red;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+h1 {
+  font-family: 'Lato', sans-serif;
+
+}
+main {
+  border: 2px solid gold;
+  /* height: 50%; */
+  flex: 1;
+  background-image: url('');
+}
+section {
+  border: 2px solid gold;
+  /* height: 50% */
+  flex: 1;
+}
